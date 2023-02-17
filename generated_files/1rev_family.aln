@@ -1,0 +1,202 @@
+CLUSTAL W(1.60) multiple sequence alignment
+
+sp|Q02843|GAG_SIVG1  mggghsalsgrsldtfekirlrpngkkkyqikhliwagkemerfglheklletkegcqki
+sp|Q02836|POL_SIVG1  mggghsalsgrsldtfekirlrpngkkkyqikhliwagkemerfglheklletkegcqki
+sp|P03349|GAG_HV1A2  mgarasvlsggeldkwekirlrpggkkkyklkhivwasrelerfavnpglletsegcrqi
+sp|P04591|GAG_HV1H2  --mgarasvlsggeldrwekirlrpggkkkyklkhivwasrelerfavnpglletsegcr
+sp|Q70622|GAG_HV1LW  --mgarasvlsggkldrwekirlrpggkkkyklkhivwasrelerfavnpglletsegcr
+sp|P03347|GAG_HV1B1  --mgarasvlsggeldrwekirlrpggkkkyklkhivwasrelerfavnpglletsegcr
+sp|P04585|POL_HV1H2  --mgarasvlsggeldrwekirlrpggkkkyklkhivwasrelerfavnpglletsegcr
+
+sp|Q02843|GAG_SIVG1  ievltpleptgseglkalfnlccviwcihaeqkvkdteeavvtvkqhyhlvdknekaakk
+sp|Q02836|POL_SIVG1  ievltpleptgseglkalfnlccviwcihaeqkvkdteeavvtvkqhyhlvdknekaakk
+sp|P03349|GAG_HV1A2  lgqlqpslqtgseelrslyntvatlycvhqridvkdtkealekieeeqnkskkkaqqaaa
+sp|P04591|GAG_HV1H2  qilgqlqpslqtgseelrslyntvatlycvhqrieikdtkealdkieeeqnkskkkaqqa
+sp|Q70622|GAG_HV1LW  qilgqlqpslqtgseecrslyntvatlycvhqrieikdtkealdkikeeqnkskkkaqqa
+sp|P03347|GAG_HV1B1  qilgqlqpslqtgseelrslyntvatlycvhqrieikdtkealdkieeeqnkskkkaqqa
+sp|P04585|POL_HV1H2  qilgqlqpslqtgseelrslyntvatlycvhqrieikdtkealdkieeeqnkskkkaqqa
+
+sp|Q02843|GAG_SIVG1  knettappggesrnypvvnqnnawvhqplsPRTLNAWVKCVEE-KRWGAEVVPMFQALSE
+sp|Q02836|POL_SIVG1  knettappggesrnypvvnqnnawvhqplsPRTLNAWVKCVEE-KRWGAEVVPMFQALSE
+sp|P03349|GAG_HV1A2  aagtgnssqvsqnypivqnlqgqmvhqaisPRTLNAWVKVVEE-KAFSPEVIPMFSALSE
+sp|P04591|GAG_HV1H2  aadtghsnqvsqnypivqniqgqmvhqaisPRTLNAWVKVVEE-KAFSPEVIPMFSALSE
+sp|Q70622|GAG_HV1LW  aadtghssqvsqnypivqniqgqmvhqaisPRTLNAWVKVVEE-KAFSPEVIPMFSALSE
+sp|P03347|GAG_HV1B1  aadtghssqvsqnypivqniqgqmvhqaisPRTLNAWVKVVEE-KAFSPEVIPMFSALSE
+sp|P04585|POL_HV1H2  aadtghsnqvsqnypivqniqgqmvhqaisPRTLNAWVKVVEE-KAFSPEVIPMFSALSE
+
+sp|Q02843|GAG_SIVG1  GCLSYDVNQMLNVIGDHQGALQILKEVINEEAAEWDRTHRPPaGPLPagqlrdpTGSDIA
+sp|Q02836|POL_SIVG1  GCLSYDVNQMLNVIGDHQGALQILKEVINEEAAEWDRTHRPPaGPLPagqlrdpTGSDIA
+sp|P03349|GAG_HV1A2  GATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHaGPIApgqmrepRGSDIA
+sp|P04591|GAG_HV1H2  GATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHaGPIApgqmrepRGSDIA
+sp|Q70622|GAG_HV1LW  GATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHaGPIApgqmrepRGSDIA
+sp|P03347|GAG_HV1B1  GATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHaGPIApgqmrepRGSDIA
+sp|P04585|POL_HV1H2  GATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHaGPIApgqmrepRGSDIA
+
+sp|Q02843|GAG_SIVG1  GTTSSIQEQIEWTFNanprIDVGAQYRKWVILGLQKVVQMYNPQ-KVLDIRQGPKEPFQD
+sp|Q02836|POL_SIVG1  GTTSSIQEQIEWTFNanprIDVGAQYRKWVILGLQKVVQMYNPQ-KVLDIRQGPKEPFQD
+sp|P03349|GAG_HV1A2  GTTSTLQEQIGWMTNn-ppIPVGEIYKRWIILGLNKIVRMYSPT-SILDIRQGPKEPFRD
+sp|P04591|GAG_HV1H2  GTTSTLQEQIGWMTNn-ppIPVGEIYKRWIILGLNKIVRMYSPT-SILDIRQGPKEPFRD
+sp|Q70622|GAG_HV1LW  GTTSTLQEQIGWMTNn-ppIPVGEIYKRWIILGLNKIVRMYSPT-SILDIRQGPKEPFRD
+sp|P03347|GAG_HV1B1  GTTSTLQEQIGWMTNn-ppIPVGEIYKRWIILGLNKIVRMYSPT-SILDIRQGPKEPFRD
+sp|P04585|POL_HV1H2  GTTSTLQEQIGWMTNn-ppIPVGEIYKRWIILGLNKIVRMYSPT-SILDIRQGPKEPFRD
+
+sp|Q02843|GAG_SIVG1  YVDRFYKALRAEQAPQDVKNWMTQTLLIQNANPDCKLILKGLGMNPTLEEMLIACQGVGG
+sp|Q02836|POL_SIVG1  YVDRFYKALRAEQAPQDVKNWMTQTLLIQNANPDCKLILKGLGMNPTLEEMLIACQGVGG
+sp|P03349|GAG_HV1A2  YVDRFYKTLRAEQASQDVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGG
+sp|P04591|GAG_HV1H2  YVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGG
+sp|Q70622|GAG_HV1LW  YVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGG
+sp|P03347|GAG_HV1B1  YVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGG
+sp|P04585|POL_HV1H2  YVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGG
+
+sp|Q02843|GAG_SIVG1  PQHKAKLMvemmsngqnmvqvgpqkkgprgplkcfncgkfghmqreckaprqikcfkcgk
+sp|Q02836|POL_SIVG1  PQHKAKLMvemmsngqnmvqvgpqkkgprgplkcfncgkfghmqreckaprqikcfkcgk
+sp|P03349|GAG_HV1A2  PGHKARVLaeamsqvtnpanimmqrgnfrnqrktvkcfncgkeghiakncraprkkgcwr
+sp|P04591|GAG_HV1H2  PGHKARVLaeamsqvtnsatimmqrgnfrnqrkivkcfncgkeghtarncraprkkgcwk
+sp|Q70622|GAG_HV1LW  PGHKARVLaeamsqvtnsatimmqrgnfrnqrkivkcfncgkeghiarncraprkkgcwk
+sp|P03347|GAG_HV1B1  PGHKARVLaeamsqvtntatimmqrgnfrnqrkmvkcfncgkeghtarncraprkkgcwk
+sp|P04585|POL_HV1H2  PGHKARVLaeamsqvtnsatimmqrgnfrnqrkivkcfncgkeghtarncraprkkgcwk
+
+sp|Q02843|GAG_SIVG1  ighmakdckngqanflgyghwggakprnfvqyrgdtvgleptappmetaydpakkllqqy
+sp|Q02836|POL_SIVG1  ighmakdckngqanffrvwplgrsetkkfcaiqrrhswsgtnsppngnslrsskeappav
+sp|P03349|GAG_HV1A2  cgreghqmkdcterqanflgkiwpsykgrpgnflqsrpeptappeesfrfgeekttpsqk
+sp|P04591|GAG_HV1H2  cgkeghqmkdcterqanflgkiwpsykgrpgnflqsrpeptappeesfrsgvetttppqk
+sp|Q70622|GAG_HV1LW  cgkeghqmkdcterqanflgkiwpsykgrpgnflqsrpeptappeesfrsgvetttppqk
+sp|P03347|GAG_HV1B1  cgkeghqmkdcterqanflgkiwpsykgrpgnflqsrpeptappflqsrpeptappeesf
+sp|P04585|POL_HV1H2  cgkeghqmkdcterqanflredlaflqgkarefsseqtransptrrelqvwgrdnnspse
+
+sp|Q02843|GAG_SIVG1  aekgqrlreereqtrkqkekevedvslsslfggdq-------------------------
+sp|Q02836|POL_SIVG1  cregtapergertdketegersggcflelplwrrpmkrviiegtpvqalldtgaddtiiq
+sp|P03349|GAG_HV1A2  qepidkelypltslrslfgndpssq-----------------------------------
+sp|P04591|GAG_HV1H2  qepidkelypltslrslfgndpssq-----------------------------------
+sp|Q70622|GAG_HV1LW  qepidkelypltslrslfgndpssq-----------------------------------
+sp|P03347|GAG_HV1B1  rsgvetttppqkqepidkelypltslrslfgndpssq-----------------------
+sp|P04585|POL_HV1H2  agadrqgtvsfnfpqvtlwqrplvtikiggqlkealldtgaddtvleemslpgrwkpkmi
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  ekdlhfpphkpwrskvvggigggihvkeyqgvqvqledkiitgsiligstpiniigrnil
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  ggiggfikvrqydqilieicghkaigtvlvgptpvniigrnlltqigctlnfpispietv
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  aqagmklvmgvlssqieetkvqlkegkdgpklkqwplsrekiealteickqmeeegklsr
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  pvklkpgmdgpkvkqwplteekikalveictemekegkiskigpenpyntpvfaikkkds
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  iggenpyntpvfaikkkdktqwrmlvdfrelnkatqdffevqlgiphpaglqkkkqitvi
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  tkwrklvdfrelnkrtqdfwevqlgiphpaglkkkksvtvldvgdayfsvpldedfrkyt
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  digdayysiplckefrkytaftipsvnntgpgiryqfnclpqgwkgsptifqntaanile
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  aftipsinnetpgiryqynvlpqgwkgspaifqssmtkilepfrkqnpdiviyqymddly
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  eikrhtpgleivqymddlwlasdhdetrhnqqvdivrkmllekgletpdkkvqreppwew
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  vgsdleigqhrtkieelrqhllrwglttpdkkhqkeppflwmgyelhpdkwtvqpivlpe
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  mgyklhpnkwtinkielpplegewtvnkiqkvvgvlnwasqiypgiktkhtcamlrgkkn
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  kdswtvndiqklvgklnwasqiypgikvrqlckllrgtkalteviplteeaelelaenre
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  lleeivwteeaeaeyknnqgivqetqegtyydplkeliatvqkqgegqwtyqftqegavl
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  ilkepvhgvyydpskdliaeiqkqgqgqwtyqiyqepfknlktgkyarmrgahtndvkql
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  kvgryakqrethtndlrtlahlvqkickealtiwgrlprvqlpvdkktwdmwwqdywqvs
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  teavqkittesiviwgktpkfklpiqketwetwwteywqatwipewefvntpplvklwyq
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  wipewefvstpllvklwyslvkepikgedvyyvdgaaskvtklgkagylsergksrirel
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  lekepivgaetfyvdgaanretklgkagyvtnrgrqkvvtltdttnqktelqaiylalqd
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  enttnqqaeltavkmaledsgenvnivtdsqyvmniltacpqesnsplveqiiqalmkkr
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  sglevnivtdsqyalgiiqaqpdqseselvnqiieqlikkekvylawvpahkgiggneqv
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  qvylqwvpahkgiggnteidklvskgirqilfldrieeaqddhakyhnnwrsmvqefglp
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  dklvsagirkvlfldgidkaqdehekyhsnwramasdfnlppvvakeivascdkcqlkge
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  nivakeivaacpkcqirgepkhgqvdasietwqmdcthlegkviivavhvasgfieaevi
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  amhgqvdcspgiwqldcthlegkvilvavhvasgyieaevipaetgqetayfllklagrw
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  pretgketahfllkllarwpvkhlhtdngpnftsqnvaavcwwgniehttgipynpqsqg
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  pvktihtdngsnftgatvraacwwagikqefgipynpqsqgvvesmnkelkkiigqvrdq
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  svesmnrqlkeiisqirddcerletavqmathihnfkrkggiggissaerlvnmlttqle
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  aehlktavqmavfihnfkrkggiggysagerivdiiatdiqtkelqkqitkiqnfrvyyr
+
+sp|Q02843|GAG_SIVG1  ------------------------------------------------------------
+sp|Q02836|POL_SIVG1  lntlqnqiqkilnfkvyyregrdpvwkgparliwkgegavvikegedikvvprrkakiik
+sp|P03349|GAG_HV1A2  ------------------------------------------------------------
+sp|P04591|GAG_HV1H2  ------------------------------------------------------------
+sp|Q70622|GAG_HV1LW  ------------------------------------------------------------
+sp|P03347|GAG_HV1B1  ------------------------------------------------------------
+sp|P04585|POL_HV1H2  dsrnplwkgpakllwkgegavviqdnsdikvvprrkakiirdygkqmagddcvasrqded
+
+sp|Q02843|GAG_SIVG1  ----------------------------------
+sp|Q02836|POL_SIVG1  dygerktmdsegsmegvreankqmegdsdlqdqe
+sp|P03349|GAG_HV1A2  ----------------------------------
+sp|P04591|GAG_HV1H2  ----------------------------------
+sp|Q70622|GAG_HV1LW  ----------------------------------
+sp|P03347|GAG_HV1B1  ----------------------------------
+sp|P04585|POL_HV1H2  ----------------------------------
+
